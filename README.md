@@ -7,7 +7,7 @@ As an architect turned frontend developer, I've embarked on a thrilling journey 
 * ✉️  You can contact me at [duran.irnes@gmail.com](mailto:duran.irnes@gmail.com)
 * 🤝  I'm open to collaborating on any cool ideas worth sharing
 * ⚡  Also...check out my bass lines here:https://silentkingdom.bandcamp.com/
-* :heart: Games - FPS colab with my buddies
+* :heart: Games - FPS coop with my buddies
 
 ### Skills
 
